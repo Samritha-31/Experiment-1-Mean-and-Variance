@@ -47,10 +47,10 @@ It is calculated as:
 
 # Program:
 
-#REGISTER NO:25011974
-#NAME:SAMRITHA.G
-#SLOT NAME:3P1-1
-#CLOAB LINK:https://colab.research.google.com/drive/1_yV5NRvRT5duN2tPeiA52Wk4BsneQrFo?usp=sharing
+# REGISTER NO:25011974
+# NAME:SAMRITHA.G
+# SLOT NAME:3P1-1
+# CLOAB LINK:https://colab.research.google.com/drive/1_yV5NRvRT5duN2tPeiA52Wk4BsneQrFo?usp=sharing
 ~~~
 import numpy as np 
 L = [int(i) for i in input("Enter arrival data: ").split()] 

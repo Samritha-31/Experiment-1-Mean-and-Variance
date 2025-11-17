@@ -50,7 +50,7 @@ It is calculated as:
 # REGISTER NO:25011974
 # NAME:SAMRITHA.G
 # SLOT NAME:3P1-1
-# CLOAB LINK:https://colab.research.google.com/drive/1_yV5NRvRT5duN2tPeiA52Wk4BsneQrFo?usp=sharing
+
 ~~~
 import numpy as np 
 L = [int(i) for i in input("Enter arrival data: ").split()] 
@@ -75,6 +75,8 @@ print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}") 
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")  
 ~~~
+
+# CLOAB LINK:https://colab.research.google.com/drive/1_yV5NRvRT5duN2tPeiA52Wk4BsneQrFo?usp=sharing
 
 
 
